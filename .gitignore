@@ -19,3 +19,15 @@ __pycache__/
 
 # Logs
 logs/
+
+# Raw source files
+data/raw/
+
+# Processed exports
+data/processed/
+
+# Databases
+database/*.db
+
+# CSV exports
+*.csv
